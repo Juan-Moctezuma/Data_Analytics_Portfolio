@@ -375,47 +375,15 @@ svg {
 
 /* FLIPPING CARDS' IMAGES */
 
-/*
-#card1 {
-    background-image: url(Assets/Images/luca-bravo-unsplash-v2.png);
+#card1A {
+    background-image: url(Assets/Images/Delivery_man.png);
+    background-size: 265px;
 }
 
-#back1, #footer1 {
-    background-image: linear-gradient(#205da1, #002147);
+#back1A, #footer1A {
+    background-image: linear-gradient(#FF9900, #FF8800);
 }
 
-#card2 {
-    background-image: url(Assets/Images/martin-sanchez-unsplash-v2.png);
-}
-
-#back2, #footer2 {
-    background-image: linear-gradient(#3d3434, #212121);
-}
-
-#card3 {
-    background-image: url(Assets/Images/charles-deluvio-unsplash-v2.png);
-}
-
-#back3, #footer3 {
-    background-image: linear-gradient(#0080FF, #4169E1);
-}
-
-#card4 {
-    background-image: url(Assets/Images/drz-unsplash-v2.png);
-}
-
-#back4, #footer4 {
-    background-image: linear-gradient(steelblue, rgb(39, 86, 124));
-}
-
-#card5 {
-    background-image: url(Assets/Images/kelly-sikkema-unsplash-v2.png);
-}
-
-#back5, #footer5 {
-    background-image: linear-gradient(#5E5C5C, #2F4353);
-}
-*/
 #card1 {
     background-image: url(Assets/Images/uber.png);
 }
@@ -480,6 +448,7 @@ svg {
     background-image: linear-gradient(#00CDAC, #02AAB0);
 }
 
+/*
 #card9 {
     background-image: url(Assets/Images/luca-bravo-unsplash-v2.png);
 }
@@ -487,8 +456,14 @@ svg {
 #back9, #footer9 {
     background-image: linear-gradient(#205da1, #002147);
 }
+*/
 
 /* GIFs DIMENSIONS */
+
+#amazonGIF {
+    height: 200px; 
+    width: 250px;
+}
 
 #uberGIF {
     height: 230px; 
@@ -530,10 +505,12 @@ svg {
     width: 250px;
 }
 
+/*
 #JMTechGIF {
     height: 250px; 
     width: 250px;
 }
+*/
 
 /* FLIPPING CARD EFFECT IS OFF FOR SMALL SCREENS */
 
