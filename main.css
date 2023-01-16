@@ -57,6 +57,7 @@ header {
 
 .headerBtn {
     position: absolute;
+    z-index: 1;
 	bottom: 15%;
 	left: 23%;
 	transform: translate(-50%, -50%);
