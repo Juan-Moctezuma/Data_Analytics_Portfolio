@@ -385,6 +385,14 @@ svg {
     background-image: linear-gradient(#FF9900, #FF8800);
 }
 
+#card1C {
+    background-image: url(Assets/Images/clouds.png);
+}
+
+#back1C, #footer1C {
+    background-image: linear-gradient(#38B7D9, #2787E1);
+}
+
 #card1 {
     background-image: url(Assets/Images/uber.png);
 }
@@ -409,6 +417,7 @@ svg {
     background-image: linear-gradient(#3d3434, #212121);
 }
 
+/*
 #card4 {
     background-image: url(Assets/Images/kon-karampelas-unsplash-v2.png);
 }
@@ -416,6 +425,7 @@ svg {
 #back4, #footer4 {
     background-image: linear-gradient(#152238, #101b2c);
 }
+*/
 
 #card5 {
     background-image: url(Assets/Images/cloud-data-storage-v2.png);
@@ -464,6 +474,11 @@ svg {
 #amazonGIF {
     height: 200px; 
     width: 250px;
+}
+
+#openweatherGIF {
+    height: 210px; 
+    width: 245px;
 }
 
 #uberGIF {
