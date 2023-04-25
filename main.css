@@ -469,9 +469,65 @@ svg {
 }
 */
 
+#card10 {
+    background-image: url(Assets/Images/protein_test.png);
+    background-size: 265px;
+}
+
+#back10, #footer10 {
+    background-image: linear-gradient(#0492C2, #0479c2);
+}
+
+#card11 {
+    background-image: url(Assets/Images/ocr.png);
+    background-size: 285px;
+}
+
+#back11, #footer11 {
+    background-image: linear-gradient(#696880, #3E3D53);
+}
+
+#card12 {
+    background-image: url(Assets/Images/data_analysis_test3.png);
+    background-size: 275px;
+}
+
+#back12, #footer12 {
+    background-image: linear-gradient(#00A86B, #028A0F);
+}
+
+#card13 {
+    background-image: url(Assets/Images/stock_market.png);
+    background-size: 275px;
+}
+
+#back13, #footer13 {
+    background-image: linear-gradient(#DC143C, #C41E3A);
+}
+
 /* GIFs DIMENSIONS */
 
 #amazonGIF {
+    height: 200px; 
+    width: 250px;
+}
+
+#amazonWPGIF {
+    height: 200px; 
+    width: 250px;
+}
+
+#ocrGIF {
+    height: 200px; 
+    width: 250px;
+}
+
+#daAutoGIF {
+    height: 200px; 
+    width: 250px;
+}
+
+#stockPredGIF {
     height: 200px; 
     width: 250px;
 }
@@ -512,8 +568,8 @@ svg {
 }
 
 #arduinoDataGIF {
-    height: 215px; 
-    width: 245px;
+    height: 205px; 
+    width: 240px;
 }
 
 #gisMap {
