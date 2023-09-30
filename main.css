@@ -505,6 +505,15 @@ svg {
     background-image: linear-gradient(#DC143C, #C41E3A);
 }
 
+#card14 {
+    background-image: url(Assets/Images/Olympic_Fitness.png);
+    background-size: 275px;
+}
+
+#back14, #footer14 {
+    background-image: linear-gradient(#FFD700, #FFC000);
+}
+
 /* GIFs DIMENSIONS */
 
 #amazonGIF {
@@ -527,7 +536,7 @@ svg {
     width: 250px;
 }
 
-#stockPredGIF {
+#olympicGIF {
     height: 200px; 
     width: 250px;
 }
