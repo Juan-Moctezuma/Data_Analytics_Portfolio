@@ -514,10 +514,24 @@ svg {
     background-image: linear-gradient(#FFD700, #FFC000);
 }
 
+#card15 {
+    background-image: url(Assets/Images/investment.png);
+    background-size: 275px;
+}
+
+#back15, #footer15 {
+    background-image: linear-gradient(#016064, #1F456E);
+}
+
 /* GIFs DIMENSIONS */
 
 #amazonGIF {
     height: 200px; 
+    width: 250px;
+}
+
+#investingGIF {
+    height: 210px; 
     width: 250px;
 }
 
@@ -551,6 +565,11 @@ svg {
     width: 245px;
 }
 
+#JLMFCompGIF {
+    height: 210px; 
+    width: 242px;
+}
+/*
 #comparerGIF {
     height: 210px; 
     width: 250px;
@@ -586,7 +605,7 @@ svg {
     width: 250px;
 }
 
-/*
+
 #JMTechGIF {
     height: 250px; 
     width: 250px;
